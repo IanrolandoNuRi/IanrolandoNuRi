@@ -17,7 +17,7 @@ I am committed to continuous learning and growth, always seeking new opportuniti
 * ⚡  I am passionate about technology and never stop learning.
 
 <a href="https://www.github.com/IanrolandoNuRi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kevinjlope?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/IanrolandoNuRi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <h3 align="left">Languages and Tools:</h3>
